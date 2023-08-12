@@ -1,0 +1,2 @@
+# scemer
+I love coding
